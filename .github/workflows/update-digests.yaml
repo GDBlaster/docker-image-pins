@@ -1,0 +1,40 @@
+name: Update image digests
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  push:
+    paths:
+      - "images.txt"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-digests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Install nix
+        uses: cachix/install-nix-action@v27
+
+      - name: Generate images.nix
+        run: nix shell nixpkgs#crane --command bash ./scripts/update-digests.sh
+
+      - name: Format images.nix
+        run: nix shell nixpkgs#nixfmt-rfc-style --command nixfmt images.nix
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images.nix
+          if git diff --cached --quiet; then
+            echo "No digest changes."
+          else
+            git commit -m "chore: update image digests"
+            git push
+          fi
