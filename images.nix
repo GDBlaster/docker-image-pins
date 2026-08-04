@@ -103,4 +103,10 @@
     "stable" =
       "ghcr.io/itzg/minecraft-server@sha256:6ec1110e4d9236d00ae9436a3e4a5929583e5b19cc94b756a7c603f7cf647a77";
   };
+  "httpd" = {
+    "2" = "httpd@sha256:305fd8326a27a137fedb8900f26375699ab233cc37793f35cf5d7c65671fb252";
+    "2.2" = "httpd@sha256:9784d70c8ea466fabd52b0bc8cde84980324f9612380d22fbad2151df9a430eb";
+    "2.4" = "httpd@sha256:305fd8326a27a137fedb8900f26375699ab233cc37793f35cf5d7c65671fb252";
+    "latest" = "httpd@sha256:305fd8326a27a137fedb8900f26375699ab233cc37793f35cf5d7c65671fb252";
+  };
 }
