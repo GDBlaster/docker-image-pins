@@ -1,0 +1,5 @@
+ghcr.io/hotio/jellyfin
+ghcr.io/hotio/radarr
+ghcr.io/hotio/lidarr
+ghcr.io/itzg/minecraft-server
+httpd
