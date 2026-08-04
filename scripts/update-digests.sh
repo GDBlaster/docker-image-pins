@@ -9,7 +9,7 @@ CRANE_TIMEOUT="${CRANE_TIMEOUT:-30}"
 # Matches: latest, main, master, edge, nightly, stable, dev, and version
 # tags with no patch/build pin, e.g. "v2", "3", "3.11" — but NOT "3.11.4"
 # or "3.11.4-alpine". Adjust to taste.
-FLOATING_TAG_REGEX="${FLOATING_TAG_REGEX:-^(latest|main|master|edge|nightly|stable|dev|testing|release|v?[0-9]+(\.[0-9]+)?|release-v[0-9]+(\.[0-9]+)?|java[0-9]+(-[a-z0-9]+)*)$}"
+FLOATING_TAG_REGEX="${FLOATING_TAG_REGEX:-^(latest|main|master|edge|nightly|stable|dev|testing|release|v?[0-9]+(\.[0-9]+)?|release-v[0-9]+(\.[0-9]+)?|java[0-9]+(-[a-z0-9]+)*|pr-plugins)$}"
 pairs="$(mktemp)"
 results="$(mktemp)"
 trap 'rm -f "$pairs" "$results"' EXIT
