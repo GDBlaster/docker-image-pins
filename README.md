@@ -1,7 +1,5 @@
 # Docker Image Pins
 
-$\color{#ff0000}\textsf{This is a Work In Progress and not functional yet. I'll remove this message once it is.}$
-
 This flake outputs a collection of oci image tag indexed hashes for use in nix.
 
 ## Why?
@@ -16,6 +14,15 @@ there is a list of images. Every day a CI job pulls all the manifests and commit
 
 ## How do I use it?
 
-0) Add this flake to your inputs
-0) In places where you use a docker image in nix replace the string literal with `dockerPins.withHash."<IMAGENAME>".<TAG>` replacing the <> with their contents for example `image = "ghcr.io/hotio/jellyfin:latest";` would be replaced by `image = dockerPins.withHash."gcr.io/hotio/jellyfin".latest` (if the desired image isnt in the list just make a PR to add it).
-0) Your images will be pinned to the lastest hash for your tag at the moment you last updated this input.
+1) Add this flake to your flake inputs:
+```nix
+  inputs = {
+    docker-pins.url = "github:GDBlaster/docker-image-pins";
+  };
+```
+2) In places where you use a docker image in nix replace the string literal with `inputs.docker-pins.lib."<IMAGENAME>".<TAG>` replacing the <> with their contents for example `image = "ghcr.io/hotio/jellyfin:latest";` would be replaced by `image = inputs.docker-pins.lib."gcr.io/hotio/jellyfin".latest` (if the desired image isnt in the list just make a PR to add it).
+3) Your images will be pinned to the lastest hash for your tag at the moment you last updated this input.
+
+## Design notes:
+
+The code is bad and not scalable however it is more than sufficient for the current scope. I wrote this because I needed it I will improve it if I ever need to scale it up. If you need it to be better make a PR.
