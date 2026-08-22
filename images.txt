@@ -8,4 +8,5 @@ ghcr.io/hotio/radarr
 ghcr.io/hotio/slskd
 ghcr.io/hotio/sonarr
 ghcr.io/itzg/minecraft-server
+chaptarr/chaptarr
 httpd
