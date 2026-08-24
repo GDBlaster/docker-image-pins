@@ -9,4 +9,5 @@ ghcr.io/hotio/slskd
 ghcr.io/hotio/sonarr
 ghcr.io/itzg/minecraft-server
 chaptarr/chaptarr
+ghcr.io/advplyr/audiobookshelf
 httpd
