@@ -20,7 +20,7 @@
     "latest" =
       "ghcr.io/hotio/bazarr@sha256:3af77167a952c19d55bb25913f2acc7c00b986aa56ea0c5d8c5284849177d75c";
     "nightly" =
-      "ghcr.io/hotio/bazarr@sha256:dbf1825f0320d1bb52cb8894c7b6fd70536d63c89a287b68dbd16dbc91fc11ea";
+      "ghcr.io/hotio/bazarr@sha256:f1822462272ae8c8ba0f00f92773aa09b78011ae81332b1d7d7b6aa0e78d392a";
     "release" =
       "ghcr.io/hotio/bazarr@sha256:3af77167a952c19d55bb25913f2acc7c00b986aa56ea0c5d8c5284849177d75c";
     "release-v1" =
@@ -32,15 +32,15 @@
   };
   "ghcr.io/hotio/jellyfin" = {
     "latest" =
-      "ghcr.io/hotio/jellyfin@sha256:2545ca7131ac9dd3d7eb66695b254ec1aa01616998707ae4a392a90321a247ba";
+      "ghcr.io/hotio/jellyfin@sha256:6cf5785dd9c76048fdc25f464cda1936b4be6716274122cbdb205024dd21d784";
     "nightly" =
-      "ghcr.io/hotio/jellyfin@sha256:48d4519dae826e30eb7b7a182b0e2f753630317530d880c1cc24e25eac081e84";
+      "ghcr.io/hotio/jellyfin@sha256:435e6ed32b708baeab72ecfaf767da1fa53ef579c7889f922ad4dd0102901c59";
     "release" =
-      "ghcr.io/hotio/jellyfin@sha256:2545ca7131ac9dd3d7eb66695b254ec1aa01616998707ae4a392a90321a247ba";
+      "ghcr.io/hotio/jellyfin@sha256:6cf5785dd9c76048fdc25f464cda1936b4be6716274122cbdb205024dd21d784";
     "release-v10" =
-      "ghcr.io/hotio/jellyfin@sha256:2545ca7131ac9dd3d7eb66695b254ec1aa01616998707ae4a392a90321a247ba";
+      "ghcr.io/hotio/jellyfin@sha256:6cf5785dd9c76048fdc25f464cda1936b4be6716274122cbdb205024dd21d784";
     "release-v10.11" =
-      "ghcr.io/hotio/jellyfin@sha256:2545ca7131ac9dd3d7eb66695b254ec1aa01616998707ae4a392a90321a247ba";
+      "ghcr.io/hotio/jellyfin@sha256:6cf5785dd9c76048fdc25f464cda1936b4be6716274122cbdb205024dd21d784";
   };
   "ghcr.io/hotio/lidarr" = {
     "latest" =
@@ -80,7 +80,7 @@
     "latest" =
       "ghcr.io/hotio/radarr@sha256:c054e15a3bb7a0fd9e450b12ceed1298a8230a0b44382234d0cec5e0767044a2";
     "nightly" =
-      "ghcr.io/hotio/radarr@sha256:4d7563d2aeaafcdf8587fbb19767edae91499e364d0206ac4dff354c41493029";
+      "ghcr.io/hotio/radarr@sha256:973975298322b3d629dc122710939e633a0581470f6f72eddf2196f559ca1570";
     "release" =
       "ghcr.io/hotio/radarr@sha256:c054e15a3bb7a0fd9e450b12ceed1298a8230a0b44382234d0cec5e0767044a2";
     "testing" =
