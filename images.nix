@@ -20,7 +20,7 @@
     "latest" =
       "ghcr.io/hotio/bazarr@sha256:0e3d4b5181753d13e781e3395dfda7c9420b1a5405c80a9611c94bec9424ee0c";
     "nightly" =
-      "ghcr.io/hotio/bazarr@sha256:ddd2439329884a13fce8edf422546cbb62b99168a0d19697ca28faaa2416c07c";
+      "ghcr.io/hotio/bazarr@sha256:33d443cd9105d7b02b433193ded85821c96ff81b416fabb3ff3af8e0e0030db9";
     "release" =
       "ghcr.io/hotio/bazarr@sha256:0e3d4b5181753d13e781e3395dfda7c9420b1a5405c80a9611c94bec9424ee0c";
     "release-v1" =
@@ -80,7 +80,7 @@
     "latest" =
       "ghcr.io/hotio/radarr@sha256:205807cb42323ababefad2872e56ce175d87c1ab5dfa7ba7eaedc19d67545ed6";
     "nightly" =
-      "ghcr.io/hotio/radarr@sha256:3d65459710df682dee5c4f5813f9544c2c39811501ee5fbd62ec587baab81230";
+      "ghcr.io/hotio/radarr@sha256:8466b6bd5fe319659e913ebd77f1eeb5206f6c3d0b7280c284c4bb2ea349fd8b";
     "release" =
       "ghcr.io/hotio/radarr@sha256:205807cb42323ababefad2872e56ce175d87c1ab5dfa7ba7eaedc19d67545ed6";
     "testing" =
@@ -90,7 +90,7 @@
     "latest" =
       "ghcr.io/hotio/slskd@sha256:5f187774bbd2249a2591b25a64a35416d0f834c256c0ad1d7bb80a2b5ad27410";
     "nightly" =
-      "ghcr.io/hotio/slskd@sha256:edc5cc6f6d1d5bf3b7693a34203d8bbd1bb1ecd626d381e599deb3f7a1b8c229";
+      "ghcr.io/hotio/slskd@sha256:552dc87e02274c0bd88331ffb85a76f9304fb72609b096f0bb40a225a81fc4f0";
     "release" =
       "ghcr.io/hotio/slskd@sha256:5f187774bbd2249a2591b25a64a35416d0f834c256c0ad1d7bb80a2b5ad27410";
     "release-v0" =
@@ -114,31 +114,31 @@
   };
   "ghcr.io/itzg/minecraft-server" = {
     "java8" =
-      "ghcr.io/itzg/minecraft-server@sha256:bb792614a99efef3fcba4e96346689d5ce2de654a1f6145a15292593335ac0af";
+      "ghcr.io/itzg/minecraft-server@sha256:98df1f58a1d40328682bc76cf23396d148b5946de0d5cfeff8fade29189e823c";
     "java8-alpine" =
       "ghcr.io/itzg/minecraft-server@sha256:a915facec1b33519287c334f5e8af6fe59e2c92012270f8762bb97f8bda7d57b";
     "java8-graalvm-ce" =
       "ghcr.io/itzg/minecraft-server@sha256:e32cb28f7b4461d0dde930ea9664f613f43248409f13ebf8f569ef6369f43e4a";
     "java8-jdk" =
-      "ghcr.io/itzg/minecraft-server@sha256:515fc6d848626c7c417cd3cdace04806b2f5b3d31c49812ef6cbb24fddceae1f";
+      "ghcr.io/itzg/minecraft-server@sha256:3f961da62ad537b298bb41976983fc285f978c8f85c5be991134c3569510241e";
     "java8-multiarch" =
-      "ghcr.io/itzg/minecraft-server@sha256:bb792614a99efef3fcba4e96346689d5ce2de654a1f6145a15292593335ac0af";
+      "ghcr.io/itzg/minecraft-server@sha256:98df1f58a1d40328682bc76cf23396d148b5946de0d5cfeff8fade29189e823c";
     "java8-openj9" =
       "ghcr.io/itzg/minecraft-server@sha256:a4f08f7389ab6177f7fef715d14bbdd1a1b33e0dfaf3f55a758553d9120a45f2";
     "java11" =
-      "ghcr.io/itzg/minecraft-server@sha256:3dfcaaa797b78acb6f77a9b0d8e850462109279e89f98bd3c1581428c98dd832";
+      "ghcr.io/itzg/minecraft-server@sha256:af26fccf8ff15bf82d05db2fa9ff9fff1d6d6110b63887831b0d2feda2d3594e";
     "java11-jdk" =
       "ghcr.io/itzg/minecraft-server@sha256:c4e9e78027e10b9993732c79e0aa2a7c4bc089445ef2edde7e91442d5bf4283d";
     "java11-openj9" =
       "ghcr.io/itzg/minecraft-server@sha256:a5bf17aa9f8ed921cfa5092aaf5e7af152eceb73f9338fb25c0b62b478685f84";
     "java16" =
-      "ghcr.io/itzg/minecraft-server@sha256:8976df9a745bc2d43b6181c82180d9798dee718393bd2a7eb4382b074c3c2473";
+      "ghcr.io/itzg/minecraft-server@sha256:bdc9cda81492168fa5aa8b8f8f3e6a4ebae57f734a2339de6669b26262546502";
     "java17" =
-      "ghcr.io/itzg/minecraft-server@sha256:eaf28b7a6af6fc01385eb65e1d2aa1fe7cb037aac0f315992f103921df7c2d1f";
+      "ghcr.io/itzg/minecraft-server@sha256:8a5fbbc4dbf1bdc371e8d6018244b855e2fcaf578eb63ddfef2289cceb62f36e";
     "java17-alpine" =
       "ghcr.io/itzg/minecraft-server@sha256:9e62c88c4785bc37538a2a9e28bbe21c04d4fab5df4163171556636c3f2db075";
     "java17-graalvm" =
-      "ghcr.io/itzg/minecraft-server@sha256:0b33e9943218fc0e65547c535e5a18aa5a28d6b5633f54e3318211e1f36b3e2f";
+      "ghcr.io/itzg/minecraft-server@sha256:2cbfb3609ec8b29febfbcd47fe753b36a9511d2a45ad233f48f50005d6302c91";
     "java17-graalvm-ce" =
       "ghcr.io/itzg/minecraft-server@sha256:2ce5126ec789b762e003d5cc99231bf5496e4b946e87e4a6be2c67ce50d270c0";
     "java17-jdk" =
@@ -154,13 +154,13 @@
     "java20-graalvm" =
       "ghcr.io/itzg/minecraft-server@sha256:a39b756a708a5be0b85bcab235b61993c2f6d46d8e52d99e82d7b3a46ef2aa60";
     "java21" =
-      "ghcr.io/itzg/minecraft-server@sha256:0cfb1fd185b90351bbc1d9ae9bb28299c8efbe1efeeacf208b466206ec9d9806";
+      "ghcr.io/itzg/minecraft-server@sha256:c88e522c002704c142af2289b4aee262f6369e99577a2b1b5b660ae45da3ff1b";
     "java21-alpine" =
-      "ghcr.io/itzg/minecraft-server@sha256:ac4bce897d8ba336577e646ea4d719e308c182a20c57adc0032986232e9d111d";
+      "ghcr.io/itzg/minecraft-server@sha256:fca596f4d03f8f859ff15ab573d28598f451eae86aacfb4f9f7574b8d1d40d7a";
     "java21-graalvm" =
-      "ghcr.io/itzg/minecraft-server@sha256:5911f92e893630b670a3a9bce64a4d0983be7d60144d8ee7b2c483b183607854";
+      "ghcr.io/itzg/minecraft-server@sha256:70fc3caa50fa79d95ae81e026ec1de6eca816a8bdb9acf7731abd6405bce8e6d";
     "java21-jdk" =
-      "ghcr.io/itzg/minecraft-server@sha256:b86f27def3e1d6314f0e8f8072e5a0a099e72a31b6c52a55837624e0ed66f7b9";
+      "ghcr.io/itzg/minecraft-server@sha256:1884c8ffee3ab4e464cdfd032020fec7c8ca4860fd0e6370e4c822971bb2fad1";
     "java23" =
       "ghcr.io/itzg/minecraft-server@sha256:135f87cf26423ff9a7c191b7b5a4e36bee1f6f4fa8fe36fba952e7a04b59be7e";
     "java23-graalvm" =
@@ -170,15 +170,15 @@
     "java24-graalvm" =
       "ghcr.io/itzg/minecraft-server@sha256:b306c76c32a9dab84862f842fc068d963a471dd71acafb97d56a9cf7bc57a541";
     "java25" =
-      "ghcr.io/itzg/minecraft-server@sha256:8672e335dbef2699e2813e97ec2d4a7cbee26f7b64ec17e98c761d2eead3b968";
+      "ghcr.io/itzg/minecraft-server@sha256:d686c51f034dfd8f3a27436340eaad7baf5cb08a873a2d5edb3cbede7e737f9f";
     "java25-alpine" =
-      "ghcr.io/itzg/minecraft-server@sha256:e37cff9922d591bd1663de1a8f96312b641c3d20c4edab36b84604f1d141de13";
+      "ghcr.io/itzg/minecraft-server@sha256:abe57dfc4eae32efc74745dc98d88439303071bb4a7e816b92757443e840bcd9";
     "java25-graalvm" =
-      "ghcr.io/itzg/minecraft-server@sha256:dddd9de650aec4fc165dcdf5dae5249cee5652a3c222091ccf58886b759e30aa";
+      "ghcr.io/itzg/minecraft-server@sha256:3f09d5f6805d5a6a65f553e7d6265c01077ece7f868f2efa2edd363ea01a3dc0";
     "java25-jdk" =
-      "ghcr.io/itzg/minecraft-server@sha256:f6c674167d6a62402950f8a28e25a46f4d69c223de18fa5b10d49341908f87aa";
+      "ghcr.io/itzg/minecraft-server@sha256:cf0550777200d467af711a3c5b20d80cf6ad65580de2ea5c0249140ef8ac3ffd";
     "latest" =
-      "ghcr.io/itzg/minecraft-server@sha256:8672e335dbef2699e2813e97ec2d4a7cbee26f7b64ec17e98c761d2eead3b968";
+      "ghcr.io/itzg/minecraft-server@sha256:d686c51f034dfd8f3a27436340eaad7baf5cb08a873a2d5edb3cbede7e737f9f";
     "stable" =
       "ghcr.io/itzg/minecraft-server@sha256:4e29d14082d94748f945edad3ee5307b97adc730fec49860199f5e52218a9ae3";
   };
