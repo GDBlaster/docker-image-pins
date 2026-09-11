@@ -18,25 +18,25 @@
   };
   "ghcr.io/hotio/bazarr" = {
     "latest" =
-      "ghcr.io/hotio/bazarr@sha256:4454e014ec2d65a3b6cd87534edb0e7246f8cd5de9f474181df25c48ce4e6094";
+      "ghcr.io/hotio/bazarr@sha256:ba5deadb451ee2a7a3786f8c9e81123f0548ffa67317c2314d98000beae036d9";
     "nightly" =
-      "ghcr.io/hotio/bazarr@sha256:131144c83b9f29ba7875e0aba33b25d4a12621ea18e1b78d9d2147bb5af0ae92";
+      "ghcr.io/hotio/bazarr@sha256:4dabec5f59013da5a67e01e96616e4493286b30199f696d93111c7d0cf285965";
     "release" =
-      "ghcr.io/hotio/bazarr@sha256:4454e014ec2d65a3b6cd87534edb0e7246f8cd5de9f474181df25c48ce4e6094";
+      "ghcr.io/hotio/bazarr@sha256:ba5deadb451ee2a7a3786f8c9e81123f0548ffa67317c2314d98000beae036d9";
     "release-v1" =
-      "ghcr.io/hotio/bazarr@sha256:4454e014ec2d65a3b6cd87534edb0e7246f8cd5de9f474181df25c48ce4e6094";
+      "ghcr.io/hotio/bazarr@sha256:ba5deadb451ee2a7a3786f8c9e81123f0548ffa67317c2314d98000beae036d9";
     "release-v1.5" =
       "ghcr.io/hotio/bazarr@sha256:8db8bd2ff0ad23ca111873a5a5be312edf448e74536a5472a0ab02ff36408f76";
     "release-v1.6" =
-      "ghcr.io/hotio/bazarr@sha256:4454e014ec2d65a3b6cd87534edb0e7246f8cd5de9f474181df25c48ce4e6094";
+      "ghcr.io/hotio/bazarr@sha256:ba5deadb451ee2a7a3786f8c9e81123f0548ffa67317c2314d98000beae036d9";
   };
   "ghcr.io/hotio/jellyfin" = {
     "latest" =
-      "ghcr.io/hotio/jellyfin@sha256:6f9599ab620b7c3414a1de42120dc08e7984baeaf6094125ce5c99b39878046a";
+      "ghcr.io/hotio/jellyfin@sha256:5a968adf7b41868c4205d0352dee93ecc9ff6d83018d14da00c0dd1a8b191b73";
     "nightly" =
-      "ghcr.io/hotio/jellyfin@sha256:0e6d7e23f1f9030444572a3eeab1e7f1afca3c3899134dc000ceea6f29aeab1a";
+      "ghcr.io/hotio/jellyfin@sha256:4f83e8b54656b446b06fb39156837024cdbdd03a50dae8e47723fb02a84d6df5";
     "release" =
-      "ghcr.io/hotio/jellyfin@sha256:6f9599ab620b7c3414a1de42120dc08e7984baeaf6094125ce5c99b39878046a";
+      "ghcr.io/hotio/jellyfin@sha256:5a968adf7b41868c4205d0352dee93ecc9ff6d83018d14da00c0dd1a8b191b73";
     "release-v10" =
       "ghcr.io/hotio/jellyfin@sha256:6bb8b5f815aef0871252445ceaaa4f21ac0dd2bdc05a6f29ce766a9314d3de76";
     "release-v10.11" =
@@ -44,71 +44,71 @@
   };
   "ghcr.io/hotio/lidarr" = {
     "latest" =
-      "ghcr.io/hotio/lidarr@sha256:1015830758e105297a24c92ecfc5ff643cd0948cabf78595f44761e2bf892f0a";
+      "ghcr.io/hotio/lidarr@sha256:9eead5e33463693a1afb5a5eeb30368fd2582e79056cc262718447f9749434b2";
     "nightly" =
-      "ghcr.io/hotio/lidarr@sha256:8117d3d2fe6b096b67ed96585bcfbf74cdc81d594d3491ec6d51f259321cbcbc";
+      "ghcr.io/hotio/lidarr@sha256:db2e29475e251622f01311bb95c5af841cacf0c58eebe0d0fcf0d4b882ff32ce";
     "pr-plugins" =
       "ghcr.io/hotio/lidarr@sha256:ae0b3b14769fdfeb73fe5d9e61ebcda04edf202244bcbd6323d2fe1381154f57";
     "release" =
-      "ghcr.io/hotio/lidarr@sha256:1015830758e105297a24c92ecfc5ff643cd0948cabf78595f44761e2bf892f0a";
+      "ghcr.io/hotio/lidarr@sha256:9eead5e33463693a1afb5a5eeb30368fd2582e79056cc262718447f9749434b2";
     "testing" =
-      "ghcr.io/hotio/lidarr@sha256:1c66422ec74a890d68c666126089cae96a2713b0e2f1f2324c78175fc4b66cad";
+      "ghcr.io/hotio/lidarr@sha256:28784e7b293b4c2fca350d73531bd48dd2f35c95f117e9266c0f79da928962fe";
   };
   "ghcr.io/hotio/prowlarr" = {
     "latest" =
-      "ghcr.io/hotio/prowlarr@sha256:d3d5592914edb8eb09b7f4edfc9b4b7a32a04ff1a47c4820fd0ddd5010abc13e";
+      "ghcr.io/hotio/prowlarr@sha256:9f5c86207dd6dcc0820ed2940151630ed40d664e6f27f481abf0678d5ab6b2e4";
     "nightly" =
-      "ghcr.io/hotio/prowlarr@sha256:99402fe6e226862002ef9c7efab73ebd3e1615c6c67ca8636c174bcbe01a21de";
+      "ghcr.io/hotio/prowlarr@sha256:a1cbcf08dc81bc7d89ec8c91e7c85526d0291fb6f3ebfa9cada4a07bc8d64885";
     "release" =
-      "ghcr.io/hotio/prowlarr@sha256:d3d5592914edb8eb09b7f4edfc9b4b7a32a04ff1a47c4820fd0ddd5010abc13e";
+      "ghcr.io/hotio/prowlarr@sha256:9f5c86207dd6dcc0820ed2940151630ed40d664e6f27f481abf0678d5ab6b2e4";
     "testing" =
-      "ghcr.io/hotio/prowlarr@sha256:5142881f851bd5b10099e91b2cc54cc543ef0e611d49d3e2b48ae3433d52cb0b";
+      "ghcr.io/hotio/prowlarr@sha256:5a69c99205ce00a784d4f0af7c647d529dd977f391795c2807bc88adc65455a3";
   };
   "ghcr.io/hotio/qbittorrent" = {
     "latest" =
-      "ghcr.io/hotio/qbittorrent@sha256:fe9ab15717ea3db43f21bef5bb23e6a0ccc16035212f1ae9fdbb9a8d17078373";
+      "ghcr.io/hotio/qbittorrent@sha256:d42ffc026b8c317803ce2ac9611c093dec4ab414f463378ce1b81704a0e0fd22";
     "release" =
-      "ghcr.io/hotio/qbittorrent@sha256:fe9ab15717ea3db43f21bef5bb23e6a0ccc16035212f1ae9fdbb9a8d17078373";
+      "ghcr.io/hotio/qbittorrent@sha256:d42ffc026b8c317803ce2ac9611c093dec4ab414f463378ce1b81704a0e0fd22";
     "release-v5" =
-      "ghcr.io/hotio/qbittorrent@sha256:fe9ab15717ea3db43f21bef5bb23e6a0ccc16035212f1ae9fdbb9a8d17078373";
+      "ghcr.io/hotio/qbittorrent@sha256:d42ffc026b8c317803ce2ac9611c093dec4ab414f463378ce1b81704a0e0fd22";
     "release-v5.1" =
       "ghcr.io/hotio/qbittorrent@sha256:a3511925843f3e625ba67a12c36cfaf89762fecc47b6ee064731344d3eef5bdc";
     "release-v5.2" =
-      "ghcr.io/hotio/qbittorrent@sha256:fe9ab15717ea3db43f21bef5bb23e6a0ccc16035212f1ae9fdbb9a8d17078373";
+      "ghcr.io/hotio/qbittorrent@sha256:d42ffc026b8c317803ce2ac9611c093dec4ab414f463378ce1b81704a0e0fd22";
   };
   "ghcr.io/hotio/radarr" = {
     "latest" =
-      "ghcr.io/hotio/radarr@sha256:ed211d7932752abcc82d1c2d0a34d4bc9a125a7aab216d929819b440834c7bf0";
+      "ghcr.io/hotio/radarr@sha256:a85bce11486573ef3811531c927d260fd1b8c495b3a95aa128ea0e89d7bdfed3";
     "nightly" =
-      "ghcr.io/hotio/radarr@sha256:bbc2a57ec3e5564639f236b162beb1dbbdafc0ab1fed115cb0dda8a5fc2664c8";
+      "ghcr.io/hotio/radarr@sha256:16acaa7b9089e53338a07ca4436ecf2e45d684d9dc9ca756ec953e2c748a6c73";
     "release" =
-      "ghcr.io/hotio/radarr@sha256:ed211d7932752abcc82d1c2d0a34d4bc9a125a7aab216d929819b440834c7bf0";
+      "ghcr.io/hotio/radarr@sha256:a85bce11486573ef3811531c927d260fd1b8c495b3a95aa128ea0e89d7bdfed3";
     "testing" =
-      "ghcr.io/hotio/radarr@sha256:0fbfc12013e15a7a68273d7e61db6dc7a05980b9d8c135bc1e303a819f80dfd4";
+      "ghcr.io/hotio/radarr@sha256:4a5b8fef73107fcc76822770457452942bac1bce793bc952fb84437ae92c434b";
   };
   "ghcr.io/hotio/slskd" = {
     "latest" =
-      "ghcr.io/hotio/slskd@sha256:6e1545c7908329d3b1a77be36e28f859d8e2dd50ab3c45533d9846839371df5d";
+      "ghcr.io/hotio/slskd@sha256:52027313cb272413718cf0342206ad5bc7229b19c1641e1e58ec1ee3398ff2b0";
     "nightly" =
-      "ghcr.io/hotio/slskd@sha256:433accb1c4533cddb8dfd9265aad11c79be7d4848d03c62a29019a81adfbc315";
+      "ghcr.io/hotio/slskd@sha256:e3005faee9121d953d63c296f47d2d4c07019520fc040099d8e69a43ff074a42";
     "release" =
-      "ghcr.io/hotio/slskd@sha256:6e1545c7908329d3b1a77be36e28f859d8e2dd50ab3c45533d9846839371df5d";
+      "ghcr.io/hotio/slskd@sha256:52027313cb272413718cf0342206ad5bc7229b19c1641e1e58ec1ee3398ff2b0";
     "release-v0" =
-      "ghcr.io/hotio/slskd@sha256:6e1545c7908329d3b1a77be36e28f859d8e2dd50ab3c45533d9846839371df5d";
+      "ghcr.io/hotio/slskd@sha256:52027313cb272413718cf0342206ad5bc7229b19c1641e1e58ec1ee3398ff2b0";
     "release-v0.24" =
       "ghcr.io/hotio/slskd@sha256:780076417574e1eb30f6cb5dba5aafecc5ea35e8df77ecd6822fa6181ecf5938";
     "release-v0.25" =
       "ghcr.io/hotio/slskd@sha256:7d58a3af3c2114ad1ee3488bfa9f91062db48c5d027fad5e2d4159e6d439a8a5";
     "release-v0.26" =
-      "ghcr.io/hotio/slskd@sha256:6e1545c7908329d3b1a77be36e28f859d8e2dd50ab3c45533d9846839371df5d";
+      "ghcr.io/hotio/slskd@sha256:52027313cb272413718cf0342206ad5bc7229b19c1641e1e58ec1ee3398ff2b0";
   };
   "ghcr.io/hotio/sonarr" = {
     "latest" =
-      "ghcr.io/hotio/sonarr@sha256:8636053b477dd7e87a9f910e763b97caeb9f2551b24cd98632bbd46fff924643";
+      "ghcr.io/hotio/sonarr@sha256:3cdb6ff392b0812dcfa32488f4dbe5e2757c154da561a67eb5f19c76ec0057e5";
     "nightly" =
-      "ghcr.io/hotio/sonarr@sha256:a990e1b28add9340609eef5a4397677a383d598ad8e51eb76d853ccd57bb6918";
+      "ghcr.io/hotio/sonarr@sha256:46e8019018613db14ec24ff171f1cfdb6bfd2dbb7ef7c2720014fcd1df7f3907";
     "release" =
-      "ghcr.io/hotio/sonarr@sha256:8636053b477dd7e87a9f910e763b97caeb9f2551b24cd98632bbd46fff924643";
+      "ghcr.io/hotio/sonarr@sha256:3cdb6ff392b0812dcfa32488f4dbe5e2757c154da561a67eb5f19c76ec0057e5";
     "v4" =
       "ghcr.io/hotio/sonarr@sha256:68988025f4ffc41dc90fd6d7efa4ab888eecfbb6c87a4a9fd9905cda2ccbc5f2";
   };
