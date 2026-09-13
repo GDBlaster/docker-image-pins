@@ -46,7 +46,7 @@
     "latest" =
       "ghcr.io/hotio/lidarr@sha256:9eead5e33463693a1afb5a5eeb30368fd2582e79056cc262718447f9749434b2";
     "nightly" =
-      "ghcr.io/hotio/lidarr@sha256:db2e29475e251622f01311bb95c5af841cacf0c58eebe0d0fcf0d4b882ff32ce";
+      "ghcr.io/hotio/lidarr@sha256:1942b87fa8f7e950ab4df276ff367ab959b2b44696e84f280ba7c55c4698c9f5";
     "pr-plugins" =
       "ghcr.io/hotio/lidarr@sha256:ae0b3b14769fdfeb73fe5d9e61ebcda04edf202244bcbd6323d2fe1381154f57";
     "release" =
@@ -58,11 +58,11 @@
     "latest" =
       "ghcr.io/hotio/prowlarr@sha256:9f5c86207dd6dcc0820ed2940151630ed40d664e6f27f481abf0678d5ab6b2e4";
     "nightly" =
-      "ghcr.io/hotio/prowlarr@sha256:a1cbcf08dc81bc7d89ec8c91e7c85526d0291fb6f3ebfa9cada4a07bc8d64885";
+      "ghcr.io/hotio/prowlarr@sha256:49e759e66c88a590f29699ef17b2762443e9562b8efefdf3c52aa51f8acf7cbd";
     "release" =
       "ghcr.io/hotio/prowlarr@sha256:9f5c86207dd6dcc0820ed2940151630ed40d664e6f27f481abf0678d5ab6b2e4";
     "testing" =
-      "ghcr.io/hotio/prowlarr@sha256:5a69c99205ce00a784d4f0af7c647d529dd977f391795c2807bc88adc65455a3";
+      "ghcr.io/hotio/prowlarr@sha256:d4344e43d396e4ca068745d4977c7a25dd5e2bc05b583bd225e082274d1aaefe";
   };
   "ghcr.io/hotio/qbittorrent" = {
     "latest" =
@@ -80,7 +80,7 @@
     "latest" =
       "ghcr.io/hotio/radarr@sha256:a85bce11486573ef3811531c927d260fd1b8c495b3a95aa128ea0e89d7bdfed3";
     "nightly" =
-      "ghcr.io/hotio/radarr@sha256:d9afd9cbe5fd3415c5ed356c2097fd6aa989f403ccfdf30772409ccc4710babe";
+      "ghcr.io/hotio/radarr@sha256:e2ddfcf9df7d7453d8048f1621291db671e2905d3f79dc6a26e0ff65a9bdecc8";
     "release" =
       "ghcr.io/hotio/radarr@sha256:a85bce11486573ef3811531c927d260fd1b8c495b3a95aa128ea0e89d7bdfed3";
     "testing" =
@@ -180,7 +180,7 @@
     "latest" =
       "ghcr.io/itzg/minecraft-server@sha256:c1a267d9ed6de3d1157859753a002aa35f8366d8db00463df3d6b07e86d2bf1d";
     "stable" =
-      "ghcr.io/itzg/minecraft-server@sha256:4e29d14082d94748f945edad3ee5307b97adc730fec49860199f5e52218a9ae3";
+      "ghcr.io/itzg/minecraft-server@sha256:e8640538dac5d54c2838d57fa9641e735ad0cf2b71fb0e8a68da3b542a315749";
   };
   "httpd" = {
     "2" = "httpd@sha256:979c38c2228d28c2edfd45c6e27dcee1c7b4a101a5526721ae8ece454e89e99e";
