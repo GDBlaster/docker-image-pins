@@ -8,7 +8,7 @@
   };
   "ghcr.io/advplyr/audiobookshelf" = {
     "edge" =
-      "ghcr.io/advplyr/audiobookshelf@sha256:3209950d692b65537c1d3c15bfcbbb70acce5ee41ec02f931365306a8777febf";
+      "ghcr.io/advplyr/audiobookshelf@sha256:b1b7fa793f0c1e06ead9275109803f544f999eb89f60c4dd86bbe9b5ffde0535";
     "latest" =
       "ghcr.io/advplyr/audiobookshelf@sha256:3528a93b6442ffe54bd46771bbbab7c97084e1101071586d9dc2254f30bb4358";
   };
