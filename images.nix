@@ -4,7 +4,9 @@
   "chaptarr/chaptarr" = {
     "0.9" = "chaptarr/chaptarr@sha256:8e29f4941acaf74c80bba4322237dfd2549816b3dd1b581f176b1be5d1ccb46b";
     "latest" =
-      "chaptarr/chaptarr@sha256:ccbe157f88f33d085d12a3e5d7cfb9d5b15f89d69b6eba984f789064d21e1b85";
+      "chaptarr/chaptarr@sha256:bb00d67cbe1485d1cd61ef178362a29b42aa08f86b290841aab4b115ad2647a6";
+    "main" =
+      "chaptarr/chaptarr@sha256:bb00d67cbe1485d1cd61ef178362a29b42aa08f86b290841aab4b115ad2647a6";
   };
   "ghcr.io/advplyr/audiobookshelf" = {
     "edge" =
@@ -20,7 +22,7 @@
     "latest" =
       "ghcr.io/hotio/bazarr@sha256:aab1002c1cf03178bfa318706047abbcabd9e6fea5dc2516bfaa44a94608930b";
     "nightly" =
-      "ghcr.io/hotio/bazarr@sha256:feefbabf688f901171c393733bdacd9ba3d88e622314205a59ea487e409260a0";
+      "ghcr.io/hotio/bazarr@sha256:55a3f690d2c3bd46354d5c3e1c7eca74395b106d00a04f36c35e1d253a13d7ae";
     "release" =
       "ghcr.io/hotio/bazarr@sha256:aab1002c1cf03178bfa318706047abbcabd9e6fea5dc2516bfaa44a94608930b";
     "release-v1" =
