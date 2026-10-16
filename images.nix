@@ -22,7 +22,7 @@
     "latest" =
       "ghcr.io/hotio/bazarr@sha256:aab1002c1cf03178bfa318706047abbcabd9e6fea5dc2516bfaa44a94608930b";
     "nightly" =
-      "ghcr.io/hotio/bazarr@sha256:a847f0623dece12d4c3908aa8c7cfeaec7d49a3121975842d8ff4ad79c53fbe4";
+      "ghcr.io/hotio/bazarr@sha256:9ed0c10681708683d1cb2908c2fb906703ac91a13af389adc1bf0acabba37026";
     "release" =
       "ghcr.io/hotio/bazarr@sha256:aab1002c1cf03178bfa318706047abbcabd9e6fea5dc2516bfaa44a94608930b";
     "release-v1" =
