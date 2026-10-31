@@ -48,7 +48,7 @@
     "latest" =
       "ghcr.io/hotio/lidarr@sha256:6f70e4ca6b5c273e5d8884aae2288ff47bb2e20df67ab22db59f237f03aee3bf";
     "nightly" =
-      "ghcr.io/hotio/lidarr@sha256:9d7092281852ca1289cd4cb838a07bd0afd5476681f7b6743fcb4307606dcdb6";
+      "ghcr.io/hotio/lidarr@sha256:895d45623d4173c7e621fc33c56cf88f3e7802789d517e0512b359ff103a8741";
     "pr-plugins" =
       "ghcr.io/hotio/lidarr@sha256:ae0b3b14769fdfeb73fe5d9e61ebcda04edf202244bcbd6323d2fe1381154f57";
     "release" =
@@ -60,7 +60,7 @@
     "latest" =
       "ghcr.io/hotio/prowlarr@sha256:e10b98d596cefc8e95daeec1a0868c09acd07e31252e14f62f0dc70db0326812";
     "nightly" =
-      "ghcr.io/hotio/prowlarr@sha256:30891ef666e10eebb77a1393c6dca2474fa8e78d40938a02729eb87bbad1f3bd";
+      "ghcr.io/hotio/prowlarr@sha256:e20e80416f5875e3fddd776846dc669a983580f954fe591178de54189f62a0be";
     "release" =
       "ghcr.io/hotio/prowlarr@sha256:e10b98d596cefc8e95daeec1a0868c09acd07e31252e14f62f0dc70db0326812";
     "testing" =
@@ -84,7 +84,7 @@
     "latest" =
       "ghcr.io/hotio/radarr@sha256:c1d51587b2c86479f2dcfc3f3ccec7f242279ae37a985a095a01c0501438187d";
     "nightly" =
-      "ghcr.io/hotio/radarr@sha256:bf79adaeac8b7d1d8f67e46a1ecd804eb3b28ef3a6ba7c7510152a87c3028e1f";
+      "ghcr.io/hotio/radarr@sha256:61b326215a12fbfce7fd080badf5753568a9fe104f4b54dc7aefda011ef43882";
     "release" =
       "ghcr.io/hotio/radarr@sha256:c1d51587b2c86479f2dcfc3f3ccec7f242279ae37a985a095a01c0501438187d";
     "testing" =
@@ -187,9 +187,9 @@
       "ghcr.io/itzg/minecraft-server@sha256:d12aed7e35981dfe259b60fbfee77d23a19b5898a7a31dca298d18b47b7b5776";
   };
   "httpd" = {
-    "2" = "httpd@sha256:d3accb516506c05ae0068bb54ba6798a10b249b64db91268fca692326cb02b4b";
+    "2" = "httpd@sha256:c6b7745aa371570cc8460a9f08c39989583d4aa7bc8e3ed8bd77a492803ea704";
     "2.2" = "httpd@sha256:9784d70c8ea466fabd52b0bc8cde84980324f9612380d22fbad2151df9a430eb";
-    "2.4" = "httpd@sha256:d3accb516506c05ae0068bb54ba6798a10b249b64db91268fca692326cb02b4b";
-    "latest" = "httpd@sha256:d3accb516506c05ae0068bb54ba6798a10b249b64db91268fca692326cb02b4b";
+    "2.4" = "httpd@sha256:c6b7745aa371570cc8460a9f08c39989583d4aa7bc8e3ed8bd77a492803ea704";
+    "latest" = "httpd@sha256:c6b7745aa371570cc8460a9f08c39989583d4aa7bc8e3ed8bd77a492803ea704";
   };
 }
