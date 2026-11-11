@@ -22,17 +22,17 @@
   };
   "ghcr.io/hotio/bazarr" = {
     "latest" =
-      "ghcr.io/hotio/bazarr@sha256:8e3cf7e905d46b45d16b14e8c4f62bd7853290dc8275927f5c0a4c8037393ee9";
+      "ghcr.io/hotio/bazarr@sha256:fb2a7981ca0ac91ce11660469da7b4df7fd104bc583009de0004e123f9e0fa8e";
     "nightly" =
-      "ghcr.io/hotio/bazarr@sha256:38b1eb43fe9030686ad78ed8e7bd9ddfd9828515fd80b6e7be0fda59b10d12a2";
+      "ghcr.io/hotio/bazarr@sha256:d88a236f336f1ccbad5b6807b9de653e22db04a18d79b4b11d2f7fec68733cb8";
     "release" =
-      "ghcr.io/hotio/bazarr@sha256:8e3cf7e905d46b45d16b14e8c4f62bd7853290dc8275927f5c0a4c8037393ee9";
+      "ghcr.io/hotio/bazarr@sha256:fb2a7981ca0ac91ce11660469da7b4df7fd104bc583009de0004e123f9e0fa8e";
     "release-v1" =
-      "ghcr.io/hotio/bazarr@sha256:8e3cf7e905d46b45d16b14e8c4f62bd7853290dc8275927f5c0a4c8037393ee9";
+      "ghcr.io/hotio/bazarr@sha256:fb2a7981ca0ac91ce11660469da7b4df7fd104bc583009de0004e123f9e0fa8e";
     "release-v1.5" =
       "ghcr.io/hotio/bazarr@sha256:8db8bd2ff0ad23ca111873a5a5be312edf448e74536a5472a0ab02ff36408f76";
     "release-v1.6" =
-      "ghcr.io/hotio/bazarr@sha256:8e3cf7e905d46b45d16b14e8c4f62bd7853290dc8275927f5c0a4c8037393ee9";
+      "ghcr.io/hotio/bazarr@sha256:fb2a7981ca0ac91ce11660469da7b4df7fd104bc583009de0004e123f9e0fa8e";
   };
   "ghcr.io/hotio/jellyfin" = {
     "latest" =
@@ -189,9 +189,9 @@
       "ghcr.io/itzg/minecraft-server@sha256:8d5080d8dcd0a2629c2e4f248678373a337a40537ad6ef2857c7dbcda6e3eadd";
   };
   "httpd" = {
-    "2" = "httpd@sha256:f6a86043744215e4be90cf8804375d90022a711d892c9aa2d7085c089ee2cb54";
+    "2" = "httpd@sha256:ce3b1e5ab31c4b1b6aba298b935cb88bc6ca1d643446b69d396406db5550bf68";
     "2.2" = "httpd@sha256:9784d70c8ea466fabd52b0bc8cde84980324f9612380d22fbad2151df9a430eb";
-    "2.4" = "httpd@sha256:f6a86043744215e4be90cf8804375d90022a711d892c9aa2d7085c089ee2cb54";
-    "latest" = "httpd@sha256:f6a86043744215e4be90cf8804375d90022a711d892c9aa2d7085c089ee2cb54";
+    "2.4" = "httpd@sha256:ce3b1e5ab31c4b1b6aba298b935cb88bc6ca1d643446b69d396406db5550bf68";
+    "latest" = "httpd@sha256:ce3b1e5ab31c4b1b6aba298b935cb88bc6ca1d643446b69d396406db5550bf68";
   };
 }
