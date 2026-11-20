@@ -10,11 +10,11 @@
   };
   "ghcr.io/advplyr/audiobookshelf" = {
     "edge" =
-      "ghcr.io/advplyr/audiobookshelf@sha256:599a025b9f4aac136a24da603171696476c18271cb62c8009dccfb5dc2f78013";
+      "ghcr.io/advplyr/audiobookshelf@sha256:04676c19c5e1955a48047d97159e948c1fa9fcc4555babe04ad6315eceda5102";
     "latest" =
       "ghcr.io/advplyr/audiobookshelf@sha256:60064c23f32fd9099fd39e82c5132c51701d1221135bbca04cd099b589e1edc3";
     "v3" =
-      "ghcr.io/advplyr/audiobookshelf@sha256:2ae76a03a7a5c3d4c429d53afcbd6ccf1cec7a619d42bf5355101c3018d236d5";
+      "ghcr.io/advplyr/audiobookshelf@sha256:d94c37100a47f912bf39683fcae018a3b35b4438d122d626f2f80a5e71cc1411";
   };
   "ghcr.io/flaresolverr/flaresolverr" = {
     "latest" =
@@ -24,7 +24,7 @@
     "latest" =
       "ghcr.io/hotio/bazarr@sha256:7ca6a2f9c891151c2da8fbe37cc0267cdb8bc5907be0ef595ac374d439da1ce8";
     "nightly" =
-      "ghcr.io/hotio/bazarr@sha256:e766ae72cffb0aa1178bf71689efb4a7c418a3da30197b8385686d096befa839";
+      "ghcr.io/hotio/bazarr@sha256:dd57d4b58192f0a99cfefa86b6e6c3c42271eaad853dba8cd65c297dd6023d49";
     "release" =
       "ghcr.io/hotio/bazarr@sha256:7ca6a2f9c891151c2da8fbe37cc0267cdb8bc5907be0ef595ac374d439da1ce8";
     "release-v1" =
@@ -36,11 +36,11 @@
   };
   "ghcr.io/hotio/jellyfin" = {
     "latest" =
-      "ghcr.io/hotio/jellyfin@sha256:81c911932b8a2c2b2a591349eaafdc0d15aa5eb49df06334b2970add62cd4918";
+      "ghcr.io/hotio/jellyfin@sha256:f4aef5a74739e30eff574265c34b2467f8e4a5751db3dce2dc24bf4c1e636aa0";
     "nightly" =
-      "ghcr.io/hotio/jellyfin@sha256:179289998d42e676f47ed86cf1cfc5d2abd075711a6adee6a982c97d6fd79c35";
+      "ghcr.io/hotio/jellyfin@sha256:953e591d2997b849efec6d3e7c9b78856588b8104c5147ddebc3281647ab4cae";
     "release" =
-      "ghcr.io/hotio/jellyfin@sha256:81c911932b8a2c2b2a591349eaafdc0d15aa5eb49df06334b2970add62cd4918";
+      "ghcr.io/hotio/jellyfin@sha256:f4aef5a74739e30eff574265c34b2467f8e4a5751db3dce2dc24bf4c1e636aa0";
     "release-v10" =
       "ghcr.io/hotio/jellyfin@sha256:6bb8b5f815aef0871252445ceaaa4f21ac0dd2bdc05a6f29ce766a9314d3de76";
     "release-v10.11" =
